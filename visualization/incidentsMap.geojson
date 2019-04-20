@@ -1,0 +1,1025 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98442533909159,
+                    40.69611486445171
+                ]
+            },
+            "properties": {
+                "marker-size": "large",
+                "marker-symbol": "car",
+                "marker-color": "#ffea00",
+                "title": "TILLARY STREET & FLATBUSH AVENUE EXTENSION",
+                "total casualty": "128.0",
+                "total incidents": 903.0,
+                "casualty per incident": 0.14174972314507198,
+                "google map url": "https://www.google.com/maps/place/TILLARY STREET & FLATBUSH AVENUE EXTENSION, New York, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9643114239776,
+                    40.760616160789674
+                ]
+            },
+            "properties": {
+                "marker-size": "large",
+                "marker-symbol": "car",
+                "marker-color": "#ffea00",
+                "title": "EAST 59 STREET & 2 AVENUE",
+                "total casualty": "73.0",
+                "total incidents": 709.0,
+                "casualty per incident": 0.10296191819464035,
+                "google map url": "https://www.google.com/maps/place/EAST 59 STREET & 2 AVENUE, New York, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.89074507677117,
+                    40.82024136243822
+                ]
+            },
+            "properties": {
+                "marker-size": "large",
+                "marker-symbol": "car",
+                "marker-color": "#FF1C1C",
+                "title": "HUNTS POINT AVENUE & BRUCKNER BOULEVARD",
+                "total casualty": "196.0",
+                "total incidents": 607.0,
+                "casualty per incident": 0.3228995057660626,
+                "google map url": "https://www.google.com/maps/place/HUNTS POINT AVENUE & BRUCKNER BOULEVARD, New York, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8970055266781,
+                    40.67588068473147
+                ]
+            },
+            "properties": {
+                "marker-size": "medium",
+                "marker-symbol": "car",
+                "marker-color": "#FF1C1C",
+                "title": "PENNSYLVANIA AVENUE & ATLANTIC AVENUE",
+                "total casualty": "158.0",
+                "total incidents": 596.0,
+                "casualty per incident": 0.2651006711409396,
+                "google map url": "https://www.google.com/maps/place/PENNSYLVANIA AVENUE & ATLANTIC AVENUE, New York, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9992494526316,
+                    40.75952179333336
+                ]
+            },
+            "properties": {
+                "marker-size": "medium",
+                "marker-symbol": "car",
+                "marker-color": "#66ff00",
+                "title": "WEST 40 STREET & 11 AVENUE",
+                "total casualty": "17.0",
+                "total incidents": 570.0,
+                "casualty per incident": 0.02982456140350877,
+                "google map url": "https://www.google.com/maps/place/WEST 40 STREET & 11 AVENUE, New York, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.89073747655436,
+                    40.65871234387211
+                ]
+            },
+            "properties": {
+                "marker-size": "medium",
+                "marker-symbol": "car",
+                "marker-color": "#FF1C1C",
+                "title": "PENNSYLVANIA AVENUE & LINDEN BOULEVARD",
+                "total casualty": "224.0",
+                "total incidents": 563.0,
+                "casualty per incident": 0.3978685612788632,
+                "google map url": "https://www.google.com/maps/place/PENNSYLVANIA AVENUE & LINDEN BOULEVARD, New York, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.87036378874748,
+                    40.73350922540826
+                ]
+            },
+            "properties": {
+                "marker-size": "medium",
+                "marker-symbol": "car",
+                "marker-color": "#ffea00",
+                "title": "WOODHAVEN BOULEVARD & QUEENS BOULEVARD",
+                "total casualty": "78.0",
+                "total incidents": 551.0,
+                "casualty per incident": 0.14156079854809436,
+                "google map url": "https://www.google.com/maps/place/WOODHAVEN BOULEVARD & QUEENS BOULEVARD, New York, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98979329012789,
+                    40.75722335722138
+                ]
+            },
+            "properties": {
+                "marker-size": "medium",
+                "marker-symbol": "car",
+                "marker-color": "#ffea00",
+                "title": "WEST 42 STREET & 8 AVENUE",
+                "total casualty": "75.0",
+                "total incidents": 547.0,
+                "casualty per incident": 0.13711151736745886,
+                "google map url": "https://www.google.com/maps/place/WEST 42 STREET & 8 AVENUE, New York, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99261750058123,
+                    40.724135238178306
+                ]
+            },
+            "properties": {
+                "marker-size": "medium",
+                "marker-symbol": "car",
+                "marker-color": "#ffea00",
+                "title": "EAST HOUSTON STREET & BOWERY",
+                "total casualty": "61.0",
+                "total incidents": 516.0,
+                "casualty per incident": 0.1182170542635659,
+                "google map url": "https://www.google.com/maps/place/EAST HOUSTON STREET & BOWERY, New York, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.91277837126195,
+                    40.86186313825241
+                ]
+            },
+            "properties": {
+                "marker-size": "medium",
+                "marker-symbol": "car",
+                "marker-color": "#FF1C1C",
+                "title": "WEST FORDHAM ROAD & MAJOR DEEGAN EXPRESSWAY",
+                "total casualty": "172.0",
+                "total incidents": 515.0,
+                "casualty per incident": 0.3339805825242718,
+                "google map url": "https://www.google.com/maps/place/WEST FORDHAM ROAD & MAJOR DEEGAN EXPRESSWAY, New York, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99831129238491,
+                    40.76081885310623
+                ]
+            },
+            "properties": {
+                "marker-size": "medium",
+                "marker-symbol": "car",
+                "marker-color": "#ffea00",
+                "title": "WEST 42 STREET & 11 AVENUE",
+                "total casualty": "73.0",
+                "total incidents": 499.0,
+                "casualty per incident": 0.1462925851703407,
+                "google map url": "https://www.google.com/maps/place/WEST 42 STREET & 11 AVENUE, New York, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99572900141153,
+                    40.75917348145156
+                ]
+            },
+            "properties": {
+                "marker-size": "medium",
+                "marker-symbol": "car",
+                "marker-color": "#66ff00",
+                "title": "WEST 41 STREET & 10 AVENUE",
+                "total casualty": "29.0",
+                "total incidents": 496.0,
+                "casualty per incident": 0.05846774193548387,
+                "google map url": "https://www.google.com/maps/place/WEST 41 STREET & 10 AVENUE, New York, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9924747134856,
+                    40.75858426120339
+                ]
+            },
+            "properties": {
+                "marker-size": "medium",
+                "marker-symbol": "car",
+                "marker-color": "#ffea00",
+                "title": "WEST 42 STREET & 9 AVENUE",
+                "total casualty": "71.0",
+                "total incidents": 482.0,
+                "casualty per incident": 0.14730290456431536,
+                "google map url": "https://www.google.com/maps/place/WEST 42 STREET & 9 AVENUE, New York, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9665862937759,
+                    40.761550511203296
+                ]
+            },
+            "properties": {
+                "marker-size": "medium",
+                "marker-symbol": "car",
+                "marker-color": "#ffea00",
+                "title": "EAST 59 STREET & 3 AVENUE",
+                "total casualty": "49.0",
+                "total incidents": 482.0,
+                "casualty per incident": 0.1016597510373444,
+                "google map url": "https://www.google.com/maps/place/EAST 59 STREET & 3 AVENUE, New York, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.97489541512596,
+                    40.74605315840333
+                ]
+            },
+            "properties": {
+                "marker-size": "medium",
+                "marker-symbol": "car",
+                "marker-color": "#ffea00",
+                "title": "EAST 36 STREET & 2 AVENUE",
+                "total casualty": "53.0",
+                "total incidents": 476.0,
+                "casualty per incident": 0.11134453781512606,
+                "google map url": "https://www.google.com/maps/place/EAST 36 STREET & 2 AVENUE, New York, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9674821545255,
+                    40.76023022472398
+                ]
+            },
+            "properties": {
+                "marker-size": "medium",
+                "marker-symbol": "car",
+                "marker-color": "#66ff00",
+                "title": "EAST 57 STREET & 3 AVENUE",
+                "total casualty": "45.0",
+                "total incidents": 453.0,
+                "casualty per incident": 0.09933774834437085,
+                "google map url": "https://www.google.com/maps/place/EAST 57 STREET & 3 AVENUE, New York, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.87742876173127,
+                    40.68001531207283
+                ]
+            },
+            "properties": {
+                "marker-size": "medium",
+                "marker-symbol": "car",
+                "marker-color": "#FF1C1C",
+                "title": "LOGAN STREET & ATLANTIC AVENUE",
+                "total casualty": "168.0",
+                "total incidents": 439.0,
+                "casualty per incident": 0.3826879271070615,
+                "google map url": "https://www.google.com/maps/place/LOGAN STREET & ATLANTIC AVENUE, New York, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.96529480508084,
+                    40.759307999999926
+                ]
+            },
+            "properties": {
+                "marker-size": "medium",
+                "marker-symbol": "car",
+                "marker-color": "#ffea00",
+                "title": "EAST 57 STREET & 2 AVENUE",
+                "total casualty": "50.0",
+                "total incidents": 433.0,
+                "casualty per incident": 0.11547344110854503,
+                "google map url": "https://www.google.com/maps/place/EAST 57 STREET & 2 AVENUE, New York, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94473102824071,
+                    40.783248867592604
+                ]
+            },
+            "properties": {
+                "marker-size": "medium",
+                "marker-symbol": "car",
+                "marker-color": "#66ff00",
+                "title": "EAST 96 STREET & 1 AVENUE",
+                "total casualty": "34.0",
+                "total incidents": 432.0,
+                "casualty per incident": 0.0787037037037037,
+                "google map url": "https://www.google.com/maps/place/EAST 96 STREET & 1 AVENUE, New York, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98873673076945,
+                    40.69619735897444
+                ]
+            },
+            "properties": {
+                "marker-size": "medium",
+                "marker-symbol": "car",
+                "marker-color": "#FF1C1C",
+                "title": "TILLARY STREET & ADAMS STREET",
+                "total casualty": "94.0",
+                "total incidents": 429.0,
+                "casualty per incident": 0.2191142191142191,
+                "google map url": "https://www.google.com/maps/place/TILLARY STREET & ADAMS STREET, New York, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.97753254649552,
+                    40.684120683411095
+                ]
+            },
+            "properties": {
+                "marker-size": "medium",
+                "marker-symbol": "car",
+                "marker-color": "#FF1C1C",
+                "title": "FLATBUSH AVENUE & ATLANTIC AVENUE",
+                "total casualty": "95.0",
+                "total incidents": 428.0,
+                "casualty per incident": 0.2219626168224299,
+                "google map url": "https://www.google.com/maps/place/FLATBUSH AVENUE & ATLANTIC AVENUE, New York, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99546801905869,
+                    40.75958311223531
+                ]
+            },
+            "properties": {
+                "marker-size": "medium",
+                "marker-symbol": "car",
+                "marker-color": "#ffea00",
+                "title": "WEST 42 STREET & 10 AVENUE",
+                "total casualty": "45.0",
+                "total incidents": 425.0,
+                "casualty per incident": 0.10588235294117647,
+                "google map url": "https://www.google.com/maps/place/WEST 42 STREET & 10 AVENUE, New York, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.97673966985661,
+                    40.747628421052674
+                ]
+            },
+            "properties": {
+                "marker-size": "medium",
+                "marker-symbol": "car",
+                "marker-color": "#66ff00",
+                "title": "EAST 37 STREET & 3 AVENUE",
+                "total casualty": "41.0",
+                "total incidents": 418.0,
+                "casualty per incident": 0.09808612440191387,
+                "google map url": "https://www.google.com/maps/place/EAST 37 STREET & 3 AVENUE, New York, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.89768469440376,
+                    40.6782685454988
+                ]
+            },
+            "properties": {
+                "marker-size": "medium",
+                "marker-symbol": "car",
+                "marker-color": "#FF1C1C",
+                "title": "PENNSYLVANIA AVENUE & JAMAICA AVENUE",
+                "total casualty": "162.0",
+                "total incidents": 411.0,
+                "casualty per incident": 0.39416058394160586,
+                "google map url": "https://www.google.com/maps/place/PENNSYLVANIA AVENUE & JAMAICA AVENUE, New York, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.01474503694587,
+                    40.63395844655174
+                ]
+            },
+            "properties": {
+                "marker-size": "medium",
+                "marker-symbol": "car",
+                "marker-color": "#ffea00",
+                "title": "7 AVENUE & 65 STREET",
+                "total casualty": "60.0",
+                "total incidents": 406.0,
+                "casualty per incident": 0.1477832512315271,
+                "google map url": "https://www.google.com/maps/place/7 AVENUE & 65 STREET, New York, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93364868888872,
+                    40.80273091975312
+                ]
+            },
+            "properties": {
+                "marker-size": "medium",
+                "marker-symbol": "car",
+                "marker-color": "#FF1C1C",
+                "title": "EAST 125 STREET & 2 AVENUE",
+                "total casualty": "94.0",
+                "total incidents": 405.0,
+                "casualty per incident": 0.23209876543209876,
+                "google map url": "https://www.google.com/maps/place/EAST 125 STREET & 2 AVENUE, New York, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.97588255851844,
+                    40.74477875901237
+                ]
+            },
+            "properties": {
+                "marker-size": "medium",
+                "marker-symbol": "car",
+                "marker-color": "#ffea00",
+                "title": "EAST 34 STREET & 2 AVENUE",
+                "total casualty": "64.0",
+                "total incidents": 405.0,
+                "casualty per incident": 0.1580246913580247,
+                "google map url": "https://www.google.com/maps/place/EAST 34 STREET & 2 AVENUE, New York, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.90809360918117,
+                    40.6761899367246
+                ]
+            },
+            "properties": {
+                "marker-size": "medium",
+                "marker-symbol": "car",
+                "marker-color": "#FF1C1C",
+                "title": "EASTERN PARKWAY & ATLANTIC AVENUE",
+                "total casualty": "148.0",
+                "total incidents": 403.0,
+                "casualty per incident": 0.36724565756823824,
+                "google map url": "https://www.google.com/maps/place/EASTERN PARKWAY & ATLANTIC AVENUE, New York, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99436439473679,
+                    40.72006616416041
+                ]
+            },
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "car",
+                "marker-color": "#ffea00",
+                "title": "DELANCEY STREET & BOWERY",
+                "total casualty": "49.0",
+                "total incidents": 399.0,
+                "casualty per incident": 0.12280701754385964,
+                "google map url": "https://www.google.com/maps/place/DELANCEY STREET & BOWERY, New York, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0018829734176,
+                    40.719394399493666
+                ]
+            },
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "car",
+                "marker-color": "#ffea00",
+                "title": "CANAL STREET & BROADWAY",
+                "total casualty": "54.0",
+                "total incidents": 395.0,
+                "casualty per incident": 0.13670886075949368,
+                "google map url": "https://www.google.com/maps/place/CANAL STREET & BROADWAY, New York, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99059001269045,
+                    40.750914163198075
+                ]
+            },
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "car",
+                "marker-color": "#ffea00",
+                "title": "WEST 34 STREET & 7 AVENUE",
+                "total casualty": "60.0",
+                "total incidents": 394.0,
+                "casualty per incident": 0.15228426395939088,
+                "google map url": "https://www.google.com/maps/place/WEST 34 STREET & 7 AVENUE, New York, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.96251787842635,
+                    40.763112820050814
+                ]
+            },
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "car",
+                "marker-color": "#66ff00",
+                "title": "EAST 63 STREET & 2 AVENUE",
+                "total casualty": "24.0",
+                "total incidents": 394.0,
+                "casualty per incident": 0.06091370558375635,
+                "google map url": "https://www.google.com/maps/place/EAST 63 STREET & 2 AVENUE, New York, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.00053161806605,
+                    40.718430128753106
+                ]
+            },
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "car",
+                "marker-color": "#ffea00",
+                "title": "LAFAYETTE STREET & CANAL STREET",
+                "total casualty": "57.0",
+                "total incidents": 393.0,
+                "casualty per incident": 0.1450381679389313,
+                "google map url": "https://www.google.com/maps/place/LAFAYETTE STREET & CANAL STREET, New York, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99393726838048,
+                    40.75897743084828
+                ]
+            },
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "car",
+                "marker-color": "#66ff00",
+                "title": "WEST 42 STREET & DYER AVENUE",
+                "total casualty": "26.0",
+                "total incidents": 389.0,
+                "casualty per incident": 0.06683804627249357,
+                "google map url": "https://www.google.com/maps/place/WEST 42 STREET & DYER AVENUE, New York, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.77383048711324,
+                    40.659650545103105
+                ]
+            },
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "car",
+                "marker-color": "#FF1C1C",
+                "title": "ROCKAWAY BOULEVARD & FARMERS BOULEVARD",
+                "total casualty": "147.0",
+                "total incidents": 388.0,
+                "casualty per incident": 0.3788659793814433,
+                "google map url": "https://www.google.com/maps/place/ROCKAWAY BOULEVARD & FARMERS BOULEVARD, New York, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.92560524687505,
+                    40.668504124479135
+                ]
+            },
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "car",
+                "marker-color": "#FF1C1C",
+                "title": "EASTERN PARKWAY & BUFFALO AVENUE",
+                "total casualty": "158.0",
+                "total incidents": 384.0,
+                "casualty per incident": 0.4114583333333333,
+                "google map url": "https://www.google.com/maps/place/EASTERN PARKWAY & BUFFALO AVENUE, New York, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8667742000002,
+                    40.65294721276035
+                ]
+            },
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "car",
+                "marker-color": "#ffea00",
+                "title": "GATEWAY DRIVE & ERSKINE STREET",
+                "total casualty": "70.0",
+                "total incidents": 384.0,
+                "casualty per incident": 0.18229166666666666,
+                "google map url": "https://www.google.com/maps/place/GATEWAY DRIVE & ERSKINE STREET, New York, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98693625665801,
+                    40.75605177415135
+                ]
+            },
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "car",
+                "marker-color": "#ffea00",
+                "title": "WEST 42 STREET & 7 AVENUE",
+                "total casualty": "73.0",
+                "total incidents": 383.0,
+                "casualty per incident": 0.1906005221932115,
+                "google map url": "https://www.google.com/maps/place/WEST 42 STREET & 7 AVENUE, New York, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99289936368433,
+                    40.71997150657899
+                ]
+            },
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "car",
+                "marker-color": "#FF1C1C",
+                "title": "DELANCEY STREET & CHRYSTIE STREET",
+                "total casualty": "104.0",
+                "total incidents": 380.0,
+                "casualty per incident": 0.2736842105263158,
+                "google map url": "https://www.google.com/maps/place/DELANCEY STREET & CHRYSTIE STREET, New York, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99456693333349,
+                    40.7504806202666
+                ]
+            },
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "car",
+                "marker-color": "#66ff00",
+                "title": "WEST 31 STREET & 8 AVENUE",
+                "total casualty": "20.0",
+                "total incidents": 375.0,
+                "casualty per incident": 0.05333333333333334,
+                "google map url": "https://www.google.com/maps/place/WEST 31 STREET & 8 AVENUE, New York, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93118763565687,
+                    40.6689723453083
+                ]
+            },
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "car",
+                "marker-color": "#FF1C1C",
+                "title": "UTICA AVENUE & EASTERN PARKWAY",
+                "total casualty": "145.0",
+                "total incidents": 373.0,
+                "casualty per incident": 0.38873994638069703,
+                "google map url": "https://www.google.com/maps/place/UTICA AVENUE & EASTERN PARKWAY, New York, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95835430026891,
+                    40.760535561559045
+                ]
+            },
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "car",
+                "marker-color": "#66ff00",
+                "title": "YORK AVENUE & EAST 62 STREET",
+                "total casualty": "27.0",
+                "total incidents": 372.0,
+                "casualty per incident": 0.07258064516129033,
+                "google map url": "https://www.google.com/maps/place/YORK AVENUE & EAST 62 STREET, New York, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8411268535912,
+                    40.82835918370171
+                ]
+            },
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "car",
+                "marker-color": "#FF1C1C",
+                "title": "BRUSH AVENUE & BRUCKNER BOULEVARD",
+                "total casualty": "79.0",
+                "total incidents": 362.0,
+                "casualty per incident": 0.21823204419889503,
+                "google map url": "https://www.google.com/maps/place/BRUSH AVENUE & BRUCKNER BOULEVARD, New York, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99914340994482,
+                    40.754549693370116
+                ]
+            },
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "car",
+                "marker-color": "#ffea00",
+                "title": "WEST 34 STREET & 10 AVENUE",
+                "total casualty": "49.0",
+                "total incidents": 362.0,
+                "casualty per incident": 0.13535911602209943,
+                "google map url": "https://www.google.com/maps/place/WEST 34 STREET & 10 AVENUE, New York, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.89213906591556,
+                    40.758986588169044
+                ]
+            },
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "car",
+                "marker-color": "#ffea00",
+                "title": "82 STREET & 23 AVENUE",
+                "total casualty": "68.0",
+                "total incidents": 355.0,
+                "casualty per incident": 0.19154929577464788,
+                "google map url": "https://www.google.com/maps/place/82 STREET & 23 AVENUE, New York, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.97046300708206,
+                    40.62411270283275
+                ]
+            },
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "car",
+                "marker-color": "#FF1C1C",
+                "title": "OCEAN PARKWAY & AVENUE J",
+                "total casualty": "105.0",
+                "total incidents": 353.0,
+                "casualty per incident": 0.29745042492917845,
+                "google map url": "https://www.google.com/maps/place/OCEAN PARKWAY & AVENUE J, New York, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99293602727282,
+                    40.75793561136361
+                ]
+            },
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "car",
+                "marker-color": "#66ff00",
+                "title": "WEST 41 STREET & 9 AVENUE",
+                "total casualty": "22.0",
+                "total incidents": 352.0,
+                "casualty per incident": 0.0625,
+                "google map url": "https://www.google.com/maps/place/WEST 41 STREET & 9 AVENUE, New York, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93427827464373,
+                    40.746111573789186
+                ]
+            },
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "car",
+                "marker-color": "#FF1C1C",
+                "title": "SKILLMAN AVENUE & QUEENS BOULEVARD",
+                "total casualty": "115.0",
+                "total incidents": 351.0,
+                "casualty per incident": 0.32763532763532766,
+                "google map url": "https://www.google.com/maps/place/SKILLMAN AVENUE & QUEENS BOULEVARD, New York, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.96388642931035,
+                    40.761234250574674
+                ]
+            },
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "car",
+                "marker-color": "#66ff00",
+                "title": "EAST 60 STREET & 2 AVENUE",
+                "total casualty": "29.0",
+                "total incidents": 348.0,
+                "casualty per incident": 0.08333333333333333,
+                "google map url": "https://www.google.com/maps/place/EAST 60 STREET & 2 AVENUE, New York, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98820023362303,
+                    40.718556979420335
+                ]
+            },
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "car",
+                "marker-color": "#ffea00",
+                "title": "ESSEX STREET & DELANCEY STREET",
+                "total casualty": "60.0",
+                "total incidents": 345.0,
+                "casualty per incident": 0.17391304347826086,
+                "google map url": "https://www.google.com/maps/place/ESSEX STREET & DELANCEY STREET, New York, NY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93032134221542,
+                    40.677432217365286
+                ]
+            },
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "car",
+                "marker-color": "#FF1C1C",
+                "title": "UTICA AVENUE & ATLANTIC AVENUE",
+                "total casualty": "119.0",
+                "total incidents": 334.0,
+                "casualty per incident": 0.3562874251497006,
+                "google map url": "https://www.google.com/maps/place/UTICA AVENUE & ATLANTIC AVENUE, New York, NY"
+            }
+        }
+    ]
+}

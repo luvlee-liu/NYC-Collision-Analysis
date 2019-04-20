@@ -1,0 +1,55 @@
+CONTRIBUTING,sum(PEDESTRIANS_CYCLIST),count(PEDESTRIANS_CYCLIST),CASUALTY_PER_INCIDENT
+unspecified,37184.0,36146,1.0287168704697616
+driver inattention/distraction,14753.0,14246,1.0355889372455427
+failure to yield right-of-way,11917.0,11427,1.042880896123217
+passenger distraction,2551.0,2517,1.013508144616607
+backing unsafely,2528.0,2411,1.0485275819162174
+pedestrian/bicyclist/other pedestrian error/confusion,2053.0,2005,1.0239401496259353
+other vehicular,1363.0,1313,1.0380807311500382
+traffic control disregarded,1311.0,1263,1.0380047505938241
+view obstructed/limited,984.0,953,1.0325288562434418
+physical disability,689.0,666,1.0345345345345345
+driver inexperience,656.0,626,1.0479233226837061
+glare,655.0,610,1.0737704918032787
+alcohol involvement,568.0,518,1.0965250965250966
+aggressive driving/road rage,568.0,534,1.0636704119850187
+turning improperly,562.0,542,1.03690036900369
+prescription medication,539.0,521,1.034548944337812
+passing or lane usage improper,519.0,508,1.0216535433070866
+pavement slippery,465.0,448,1.0379464285714286
+lost consciousness,443.0,432,1.025462962962963
+unsafe speed,420.0,382,1.0994764397905759
+passing too closely,353.0,347,1.0172910662824208
+fatigued/drowsy,312.0,304,1.0263157894736843
+following too closely,293.0,285,1.0280701754385966
+outside car distraction,273.0,261,1.0459770114942528
+illness,220.0,208,1.0576923076923077
+unsafe lane changing,179.0,175,1.022857142857143
+reaction to uninvolved vehicle,160.0,155,1.032258064516129
+oversized vehicle,132.0,130,1.0153846153846153
+brakes defective,129.0,118,1.0932203389830508
+other electronic device,123.0,114,1.0789473684210527
+drugs (illegal),82.0,51,1.607843137254902
+obstruction/debris,74.0,73,1.0136986301369864
+reaction to other uninvolved vehicle,60.0,57,1.0526315789473684
+failure to keep right,59.0,57,1.0350877192982457
+pavement defective,56.0,52,1.0769230769230769
+accelerator defective,27.0,21,1.2857142857142858
+fell asleep,24.0,22,1.0909090909090908
+driverless/runaway vehicle,23.0,23,1.0
+lane marking improper/inadequate,22.0,22,1.0
+other lighting defects,19.0,19,1.0
+traffic control device improper/non-working,19.0,19,1.0
+tire failure/inadequate,17.0,14,1.2142857142857142
+cell phone (hand-held),16.0,16,1.0
+steering failure,13.0,13,1.0
+cell phone (hands-free),10.0,10,1.0
+headlights defective,7.0,6,1.1666666666666667
+tinted windows,7.0,7,1.0
+shoulders defective/improper,7.0,6,1.1666666666666667
+tow hitch defective,4.0,3,1.3333333333333333
+windshield inadequate,3.0,3,1.0
+animals action,3.0,3,1.0
+texting,2.0,2,1.0
+listening/using headphones,2.0,2,1.0
+vehicle vandalism,1.0,1,1.0

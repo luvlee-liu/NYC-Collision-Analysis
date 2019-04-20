@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+
+
+
+<head>
+<title>NYC Collision Data Analysis - Hourly total incident numbers grouped by Contributing factor - Li Liu @ NYU</title>
+
+<!-- Load d3.js -->
+<script src="http://d3js.org/d3.v3.js" type="text/javascript"></script>
+
+<!-- load nvd3.js-->>
+
+<script src="https://cdn.rawgit.com/novus/nvd3/v1.8.1/build/nv.d3.min.js" type="text/javascript"></script>
+
+<link href="https://cdn.rawgit.com/novus/nvd3/v1.8.1/build/nv.d3.css" rel="stylesheet">
+</head>
+
+<body>
+  <h2>NYC Collision Data Analysis - Hourly total incident numbers grouped by Contributing factor - Li Liu @ NYU</h>
+  <ul style="font-size:13px">
+    <li>double click to view a single category</li>
+    <li>single click to toggle view of a category</li>
+  </ul>
+  <div id="chart" style="width:100%">
+    <svg style="height:800px"> </svg>
+  </div>
+  <footer style="font-size:12px">
+  Powered by <a href=http://nvd3.org/index.html>nvd3.js</a>
+  <footer>
+  <script type="text/javascript">
+    csvUrl = 'data/groupByTimeAndContributing/part-00000'
+    d3.csv(csvUrl, function(data) {
+      nv.addGraph(function() {
+        var chart = nv.models.stackedAreaChart()
+                      .margin({right: 100})
+                      .x(function(d) { return d[0] })   //We can modify the data accessor functions...
+                      .y(function(d) { return d[1] })   //...in case your data is formatted differently.
+                      .useInteractiveGuideline(true)    //Tooltips which show all data points. Very nice!
+                      .rightAlignYAxis(true)      //Let's move the y-axis to the right side.
+                      .showControls(true)       //Allow user to choose 'Stacked', 'Stream', 'Expanded' mode.
+                      .clipEdge(true);
+
+        //Format x-axis labels with custom function.
+        chart.xAxis
+            .tickFormat(function(d) {
+              return d
+        });
+
+        chart.yAxis
+            .tickFormat(d3.format(',.1f'));
+
+        var dataArray = toKeyValuesJson(data, "count(TOTAL)")
+        console.log(dataArray)
+        //var dataArray = dataTest()
+        //console.log(dataArray)
+        d3.select('#chart svg')
+          .datum(dataArray)
+          .call(chart);
+
+        nv.utils.windowResize(chart.update);
+
+        return chart;
+      });
+
+      function toKeyValuesJson(csvData, colName) {
+        var jsonMap = {}
+        const rowIDs = d3.keys(csvData)
+        for (var i = 0; i < rowIDs.length; i++)
+        {
+          const row = csvData[rowIDs[i]]
+          const contributing = row["CONTRIBUTING"]
+          if (!(contributing in jsonMap)) {
+            var placeholder = []
+            for (var i = 0; i < 24; i++) {
+              placeholder.push([i, 0])
+            }
+            jsonMap[contributing] = placeholder
+          }
+          const hour = parseInt(row["HOUR"])
+          const value = parseFloat(row[colName])
+          jsonMap[contributing][hour] = [hour, value]
+        }
+        var dataArray = Object.keys(jsonMap).map(function(key,idx) {
+          return {
+            "key": key,
+            "values": jsonMap[key]
+          }
+        })
+        return dataArray
+      };
+    })
+  </script>
+</body>
+
+</html>
+
+
+

@@ -1,0 +1,25 @@
+HOUR,CONTRIBUTING,sum(TOTAL),count(TOTAL),CASUALTY_PER_INCIDENT
+0,alcohol involvement,298.0,757,0.39365918097754293
+1,alcohol involvement,312.0,712,0.43820224719101125
+2,alcohol involvement,301.0,640,0.4703125
+3,alcohol involvement,288.0,670,0.4298507462686567
+4,alcohol involvement,448.0,819,0.5470085470085471
+5,alcohol involvement,224.0,546,0.41025641025641024
+6,alcohol involvement,132.0,350,0.37714285714285717
+7,alcohol involvement,45.0,186,0.24193548387096775
+8,alcohol involvement,65.0,200,0.325
+9,alcohol involvement,52.0,164,0.3170731707317073
+10,alcohol involvement,25.0,143,0.17482517482517482
+11,alcohol involvement,38.0,150,0.25333333333333335
+12,alcohol involvement,45.0,145,0.3103448275862069
+13,alcohol involvement,44.0,160,0.275
+14,alcohol involvement,54.0,184,0.29347826086956524
+15,alcohol involvement,68.0,166,0.40963855421686746
+16,alcohol involvement,95.0,284,0.3345070422535211
+17,alcohol involvement,100.0,298,0.33557046979865773
+18,alcohol involvement,143.0,322,0.4440993788819876
+19,alcohol involvement,165.0,374,0.4411764705882353
+20,alcohol involvement,186.0,425,0.4376470588235294
+21,alcohol involvement,231.0,473,0.4883720930232558
+22,alcohol involvement,286.0,467,0.6124197002141327
+23,alcohol involvement,277.0,580,0.47758620689655173
