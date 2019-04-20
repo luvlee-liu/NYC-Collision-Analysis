@@ -25,9 +25,19 @@
   <div id="chart" style="width:100%">
     <svg style="height:800px"> </svg>
   </div>
-  <footer style="font-size:12px">
-  Powered by <a href=http://nvd3.org/index.html>nvd3.js</a>
-  <footer>
+  <div style="font-size:12px">
+    Powered by <a href=http://nvd3.org/index.html>nvd3.js</a>
+  </div>
+
+  <div>
+      <h3>Incidents map</h3>
+      <ul style="font-size:13px">
+          <li>The size of mark represents the number of incidents(&lt;400 is small, 400 to 600 is medium, >=600 is Large)</li>
+          <li>The color of mark represents the number of casualty per incidents. (&lt;0.1 is Green, 0.1 to 0.2 is Yellow, >=0.2 is Red ></li>
+        </ul>
+      <script src="https://embed.github.com/view/geojson/luvlee-liu/NYC-Collision-Analysis/master/visualization/incidentsMap.geojson?height=700&width=1000"></script>
+  </div>
+  
   <script type="text/javascript">
     csvUrl = 'data/groupByTimeAndContributing/part-00000'
     d3.csv(csvUrl, function(data) {
@@ -91,7 +101,8 @@
       };
     })
   </script>
-</body>
+
+  </body>
 
 </html>
 
