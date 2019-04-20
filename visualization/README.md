@@ -24,3 +24,4 @@ Use chrome browser access `localhost:8000`
 ##### Map of incidents
 Run `intersectionMapGeoJson.py` to generate `incidentsMap.geojson`
 Copy and paste content of `incidentsMap.geojson` to `http://geojson.io/`
+<script src="https://embed.github.com/view/geojson/luvlee-liu/NYC-Collision-Analysis/master/visualization/incidentsMap.geojson?height=700&width=1000"></script>
