@@ -135,7 +135,7 @@ object AnalysisMain {
 
     // Analysis: PEDESTRIANS and CYCLIST casualty in total groupby BOROUGH for
     val dfNonVehicleCasuaty = nonVehicleCasuaty(data)
-    csvWrite(dfNonVehicleCasuaty, outputPath + "/nonVehiclePercentByBoro")
+    csvWrite(dfGroupByBoro, outputPath + "/nonVehiclePercentByBoro")
 
     // Analysis: total incident group by contributing factor
     val dfGroupByContributingQuantity = groupByContributingQuantity(data)

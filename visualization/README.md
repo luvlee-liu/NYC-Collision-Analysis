@@ -15,9 +15,7 @@ glareByTime/                groupByStreetQuantity/      incidentCross/
 ##### Hourly total incident numbers grouped by Contributing factor
 start python SimpleHttpServer by
 ```
-python -m SimpleHTTPServer 8000
-or
-python3 -m http.server 8000
+./runServer.sh
 ```
 Use chrome browser access `localhost:8000`
 
